@@ -23,7 +23,7 @@
 
   <param name="quality" value="high" /> 
 
-  <embed src="Experiment10.swf" quality="high"
+  <embed src="1.Rigid Joint.swf" quality="high"
       width=100% height=100% name="Experiment10" align="" 
       type="application/x-shockwave-flash" 
       pluginspage="http://www.macromedia.com/go/getflashplayer"> 
